@@ -1,6 +1,6 @@
-<h1 align="center"> CS Notes </h1>
+<h1 align="center"> CS Knowledge Hub </h1>
 
-<h2 align="center">This repo should include my study notes across various computer science topics. </h2>
+<h2 align="center">This repository contains my study notes on various Computer Science topics.</h2>
 
 <br>
 
