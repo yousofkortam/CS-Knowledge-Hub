@@ -150,7 +150,8 @@
 
 ---
 
-<!-- ![Congratulation](link photo here) -->
+![Congratulations](https://github.com/user-attachments/assets/810f1774-fce5-49e4-b0ce-feeda1024574)
+
 
 > [!NOTE]
 > ### ◉ Don't be fooled, this _Congratulation_ is for me 😄
