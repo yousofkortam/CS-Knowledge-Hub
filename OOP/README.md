@@ -804,6 +804,8 @@ Hello java
 ```
 
 ## SOLID <a name="solid"></a>
+[View complete definition](https://github.com/yousofkortam/CS-Knowledge-Hub/tree/main/SOLID)
+
 <p align="center">
 
 ![SOLID](https://github.com/user-attachments/assets/ef01fba2-89a9-47b9-bc68-960d43a6f994)
@@ -828,6 +830,7 @@ A class should only have a single responsibility, that is, only changes to one p
 One should "depend upon abstractions, [not] concretions".
 
 ## Design patterns
+[View complete definition](https://github.com/yousofkortam/CS-Knowledge-Hub/tree/main/Design-Patterns)
 
 <p align="center">
 
