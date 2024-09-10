@@ -4,4 +4,6 @@
 
 <br>
 
-![CS-Image](https://github.com/user-attachments/assets/b4f0d2c3-c83e-404e-aa03-87cfd23ebf4f)
+<p align="center">
+<img alt="CS-Knowledge-Hub" src="https://github.com/user-attachments/assets/841024eb-cf51-4b1b-acb9-0a3f7a9c5eeb">
+</p>
