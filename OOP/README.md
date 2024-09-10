@@ -82,7 +82,7 @@ The meaning of **Encapsulation**, is to make sure that "sensitive" data is hidde
   - Flexible: the programmer can change one part of the code without affecting other parts
   - Increased security of data
 
-  [See more about Encapsulation](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Encapsulation/Encapsulation.md)
+  [See more about Encapsulation](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Encapsulation/README.md)
    
 ### ```Abstraction``` <a name="abstraction"></a>
 Abstract Classes and Methods
@@ -126,7 +126,7 @@ class Main {
 }
 ```
 
-  [See more about Abstraction](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Abstraction/Abstraction.md)
+  [See more about Abstraction](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Abstraction/README.md)
 
 ### ```Inheritance``` <a name="inheritance"></a>
 Subclass and superclass
@@ -170,7 +170,7 @@ class Car extends Vehicle {
 
 - It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
 
-  [See more about Inheritance](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Inheritance/Inheritance.md)
+  [See more about Inheritance](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Inheritance/README.md)
 
 ### ```Polymorphism``` <a name="polymorphism"></a>
 Objects are allowed to take on more than one form depending on the context. The program will determine which 
@@ -219,7 +219,7 @@ class Main {
 
 It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
 
-  [See more about Polymorphism](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Polymorphism/Polymorphism.md)
+  [See more about Polymorphism](https://github.com/yousofkortam/CS-Knowledge-Hub/blob/main/OOP/Polymorphism/README.md)
 
 ### Coupling <a name="coupling"></a>
 Coupling refers to the knowledge or information or dependency of another class. It arises when classes are aware of each other. If a class has the details information of another class, there is strong coupling. In Java, we use private, protected, and public modifiers to display the visibility level of a class, method, and field. You can use interfaces for the weaker coupling because there is no concrete implementation.
