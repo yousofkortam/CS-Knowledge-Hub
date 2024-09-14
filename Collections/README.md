@@ -15,6 +15,7 @@ For example, if they wanted to store five integers, they would create five varia
       int num4 = 40;
       int num5 = 50;
 ```
+
 This method becomes cumbersome, impractical and error-prone when dealing with a large number of elements.</br>
 
 
